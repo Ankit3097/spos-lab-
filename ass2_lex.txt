@@ -1,0 +1,6 @@
+//ass4
+write a program using yacc specifiaction to implement syntax analysis phase of compiler to validate type and syntax of variables declaration in java
+
+//ass5
+write a program using yacc specifiaction to implement syntax analysis phase of compiler to recognize simple and compound 
+sentences given in input file
